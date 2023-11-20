@@ -1,4 +1,4 @@
-package calculator.com;
+package calculator.ifelse;
 
 import java.util.Scanner;
 
